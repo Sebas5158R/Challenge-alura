@@ -23,7 +23,7 @@ Características
 
     bash
 
-    ´´´git clone https://github.com/tu-usuario/encriptador-desencriptador.git´´´
+    git clone https://github.com/tu-usuario/encriptador-desencriptador.git
     cd encriptador-desencriptador
 
     Abrir el Archivo HTML:
