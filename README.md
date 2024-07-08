@@ -6,15 +6,21 @@ Este proyecto es una aplicación web que permite encriptar y desencriptar textos
 Características
 
     Encriptar Textos: Convierte el texto ingresado en un texto cifrado usando un desplazamiento de 3 posiciones en el alfabeto.
+    
     Desencriptar Textos: Restaura el texto encriptado a su forma original usando un desplazamiento de -3 posiciones en el alfabeto.
+    
     Validación de Texto: Verifica que el texto no contenga tildes ni mayúsculas antes de procesarlo.
+    
     Interfaz Intuitiva: Diseño limpio y responsive que se adapta a diferentes tamaños de pantalla.
+    
     Copiar al Portapapeles: Permite copiar el texto encriptado o desencriptado con un solo clic.
 
 <h2>Tecnologías Utilizadas</h2>
 
     HTML5: Estructura y contenido de la página web.
+    
     CSS3: Estilos y diseño responsivo.
+    
     JavaScript: Lógica de encriptado/desencriptado y manipulación del DOM.
 
 <h2>Instalación y Uso</h2>
